@@ -47,10 +47,8 @@ The writer would like to... :
 * Install all the dependencies from the requirements.txt file by running `python3.6 pip install -r requirements.txt`
 * Create a `run.py` file in the root of the folder and add the following code:
 
-        export SECRET_KEY=<your-secret-key>
-
-
-        
+## live link
+ *https://dashboard.heroku.com/apps/blog-24/logs
 ## Built With
 
 * [Python3.6](https://docs.python.org/3/)
